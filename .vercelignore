@@ -1,0 +1,15 @@
+node_modules
+.git
+.cache
+.local
+server
+script
+shared
+client/src
+drizzle.config.ts
+tsconfig.json
+vite-plugin-meta-images.ts
+vite.config.ts
+package-lock.json
+.gitignore
+.replit
