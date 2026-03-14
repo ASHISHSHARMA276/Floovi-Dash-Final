@@ -147,7 +147,7 @@ export default function Home() {
                 <span className="relative inline-flex rounded-full h-3 w-3 bg-green-500"></span>
               </span>
               <span className="text-sm font-medium tracking-wider uppercase text-gray-300">
-                Trusted By 150k+ users.
+                Trusted By 153k+ users.
               </span>
             </div>
 
